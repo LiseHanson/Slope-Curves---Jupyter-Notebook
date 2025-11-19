@@ -2,7 +2,7 @@
 A Jupyter Notebook freely available to help researches investigate non-adiabatic AC calorimetry data for instrument issues and non-linear heat losses
 The notbook is created such that it should be possible for users without programming experience to use the notebook to perform analysis on their own AC-calorimetic data. 
 
-# Install Jupyter Notebook though Anadonda
+# Install JupyterLab though Anadonda
 Download Anaconda here: [Anaconda homepage](https://www.anaconda.com/download)
 
 
