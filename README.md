@@ -21,7 +21,7 @@ Addditionally the steps are described here.
    After the installation has finished close the terminal
 7. Open JupyterLab:
    Open the terminal again.
-   Windows: type *pyton -m jupyterlab* and wait for the program to open in a browser window. 
+   Windows: type *pyton -m jupyterlab* and wait for the program to open in a browser window. \n noss
 
 # Intsall widget package (Optional)
 <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/fe33bf4d-21e3-489d-bb02-7c2cb0769f37" />
