@@ -6,7 +6,7 @@ The notbook is created such that it should be possible for users without program
 To run the script you need to install both Python (the programming language used in the script) and JupyterLab (the user interface where you will run and edit the script to read your own files)
 
 The following videos can be used to help you install both Python and JupyterLab:
-**Windows**:  [https://www.youtube.com/watch?v=LQ47rIO5bTw](https://www.youtube.com/watch?v=LQ47rIO5bTw)  
+**Windows**:  [https://www.youtube.com/watch?v=LQ47rIO5bTw](https://www.youtube.com/watch?v=LQ47rIO5bTw)  \
 **MacOS**: [https://www.youtube.com/watch?v=z7zOkRubIrU](https://www.youtube.com/watch?v=z7zOkRubIrU). When you get to typing the command *pip3 install notebook* instead type *pip install jupyterlab*. 
 
 Addditionally the steps are described here. 
