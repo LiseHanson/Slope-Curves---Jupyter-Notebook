@@ -13,15 +13,22 @@ Addditionally the steps are described here.
 1. Install Python from the official Python homepage: [](https://www.python.org/downloads/)
 2. Run the python installer
 3. Confirm corret installation: Open the terminal and type python:
+   
    Picture
+   
    Close the terminal.
 5. Install JupyterLab. Open the terminal again.
+   
    Windows: type *pyton -m pip install jupyterlab*
+   
    MacOS: *pip install jupyterlab*
+   
    After the installation has finished close the terminal
 7. Open JupyterLab:
+   
    Open the terminal again.
-   Windows: type *pyton -m jupyterlab* and wait for the program to open in a browser window. \n noss
+   
+   Windows: type *pyton -m jupyterlab* and wait for the program to open in a browser window.
 
 # Intsall widget package (Optional)
 <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/fe33bf4d-21e3-489d-bb02-7c2cb0769f37" />
