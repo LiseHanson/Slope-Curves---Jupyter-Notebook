@@ -12,18 +12,13 @@ The following videos can be used to help you install both Python and JupyterLab:
 Addditionally the steps are described here. 
 1. Install Python from the official Python homepage: [](https://www.python.org/downloads/)
 2. Run the python installer
-3. Confirm corret installation: Open the terminal and type python:
-   
-   Picture
-   
+3. Confirm corret installation: Open the terminal and type python:\
+   Picture\
    Close the terminal.
-5. Install JupyterLab. Open the terminal again.
-   
-   Windows: type *pyton -m pip install jupyterlab*
-   
-   MacOS: *pip install jupyterlab*
-   
-   After the installation has finished close the terminal
+5. Install JupyterLab. Open the terminal again.\
+   Windows: type *pyton -m pip install jupyterlab*\   
+   MacOS: *pip install jupyterlab*\
+   After the installation has finished close the terminal\
 7. Open JupyterLab:
    
    Open the terminal again.
