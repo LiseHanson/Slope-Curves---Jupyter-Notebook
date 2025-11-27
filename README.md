@@ -2,6 +2,8 @@
 This repository contains a Jupyter Notebook, which is freely available. The notebook is intended for researchers interested in investigating non-adiabatic AC calorimetry data for instrument issues and non-linear heat losses.
 The notebook is created such that it should be possible for users without programming experience to use the notebook to perform analysis on their own AC calorimetric data. 
 
+If you are are interested in a review of the notebook click on the file *Slope Curves.ipynb* on the GitHub page or [click here](https://github.com/LiseHanson/Slope-Curves---Jupyter-Notebook/blob/main/Slope%20Curves.ipynb). 
+
 In the text below, it is described how to download and install everything needed to run the Jupyter Notebook. It is also described how JupyterLab is opened and how to run the script once the installations are completed. 
 
 To understand the need for slope curve analysis and how to understand such plots, see these articles: 
@@ -68,3 +70,7 @@ To download the Slope curves repository, go to [https://github.com/LiseHanson/Sl
 # Run and edit the script: 
 Congratulations, you are now ready to run and edit the script. All the instructions on running and adapting the script are given inside *"Slope Curves.ipynb"*, and thus, from here you will continue with the instructions seen in JupyterLab.  
 - Good luck :partying_face:
+
+
+# Updates to the notebook: 
+First version: 2024 November 27th. 
