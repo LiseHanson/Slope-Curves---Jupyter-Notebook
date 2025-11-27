@@ -1,6 +1,6 @@
 # Slope-Curves---Jupyter-Notebook
 This repository contains a Jupyter Notebook, which is freely available. The notebook is intended for researchers interested in investigating non-adiabatic AC calorimetry data for instrument issues and non-linear heat losses.
-The notebook is created such that it should be possible for users without programming experience to use the notebook to perform analysis on their own AC-calorimetric data. 
+The notebook is created such that it should be possible for users without programming experience to use the notebook to perform analysis on their own AC calorimetric data. 
 
 # Download and install Python and JupyterLab
 To run the script, you need to install both Python (the programming language used in the script) and JupyterLab (the graphical user interface where you will run and edit the script). 
