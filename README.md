@@ -73,4 +73,6 @@ Congratulations, you are now ready to run and edit the script. All the instructi
 
 
 # Updates to the notebook: 
-First version: 2024 November 27th. 
+When problems are fixed in the Jupyter Notebook the script will be updated on GitHub. Thus, for newer versions re-download the Notebook. 
+* **First version**: 2024 November 27th. 
+
