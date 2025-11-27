@@ -37,11 +37,8 @@ The plots in JupyteLab can become interactive such that you can zoom on selected
    If you want more information in the ipympl package visit [https://matplotlib.org/ipympl/](https://matplotlib.org/ipympl/)  
    
 
-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/fe33bf4d-21e3-489d-bb02-7c2cb0769f37" />
-
-
 # Download the Slope-curves repository:  
-To download the Slope curves repository go to [https://github.com/LiseHanson/Slope-Curves---Jupyter-Notebook](https://github.com/LiseHanson/Slope-Curves---Jupyter-Notebook) and click <code> -> Download ZIP. 
+To download the Slope curves repository go to [https://github.com/LiseHanson/Slope-Curves---Jupyter-Notebook](https://github.com/LiseHanson/Slope-Curves---Jupyter-Notebook) and click <>code -> Download ZIP. 
 <img width="1416" height="896" alt="image" src="https://github.com/user-attachments/assets/e26cf826-e5c8-4c46-a49c-ade4e36c7ccc" />
 
 
