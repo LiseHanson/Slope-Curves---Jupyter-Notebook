@@ -2,7 +2,11 @@
 This repository contains a Jupyter Notebook, which is freely available. The notebook is intended for researchers interested in investigating non-adiabatic AC calorimetry data for instrument issues and non-linear heat losses.
 The notebook is created such that it should be possible for users without programming experience to use the notebook to perform analysis on their own AC calorimetric data. 
 
-In the text below, it is described how to download and install everything needed to run the Jupyter Notebook. It is also described how JupyterLab is opened and how to run the script once the installations are completed.
+In the text below, it is described how to download and install everything needed to run the Jupyter Notebook. It is also described how JupyterLab is opened and how to run the script once the installations are completed. 
+
+To understand the need for slope curve analysis and how to understand such plots, see these articles: 
+* [The Impact of Sample Insulation on Estimating the Heating Power of Magnetic Nanoparticles by AC Calorimetry](http://dx.doi.org/10.1109/LMAG.2023.3279778)
+* [Link to article pending](TODO!!!)
 
 # Download and install Python and JupyterLab
 To run the script, you need to install both Python (the programming language used in the script) and JupyterLab (the graphical user interface where you will run and edit the script). 
