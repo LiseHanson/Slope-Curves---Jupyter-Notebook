@@ -40,7 +40,7 @@ Additionally, the steps are described below.
    Wait for the program to open in a browser window.
 8. Success, you have installed both Python and Jupyter :sunglasses:
 
-# Install widget package (Optional):  
+# Install widget package (Optional) 
 The plots in JupyterLab can be made interactive so you can zoom into selected regions. I personally find this very useful, and thus I recommend following this optional step. 
 1. Close the JupyterLab tab in your browser.
 2. Close the terminal.
@@ -51,7 +51,7 @@ The plots in JupyterLab can be made interactive so you can zoom into selected re
    If you want more information on the ipympl package, visit [https://matplotlib.org/ipympl/](https://matplotlib.org/ipympl/).  
    
 
-# Download and open the Slope-curves repository in JupyterLab:  
+# Download and open the Slope-curves repository in JupyterLab
 To download the Slope curves repository, go to [https://github.com/LiseHanson/Slope-Curves---Jupyter-Notebook](https://github.com/LiseHanson/Slope-Curves---Jupyter-Notebook) and click *<>code -> Download ZIP* as shown below. 
 <p align="center">
 <img style="width:85%; height:auto;" alt="image" src="https://github.com/user-attachments/assets/e26cf826-e5c8-4c46-a49c-ade4e36c7ccc" />
@@ -67,12 +67,12 @@ To download the Slope curves repository, go to [https://github.com/LiseHanson/Sl
 5. Your browser window should now look similar to the image below. To run a single cell, click on :arrow_forward: as marked with yellow. To run the entire script, click on :fast_forward: as marked with orange. 
    <img width="2278" height="1146" alt="image" src="https://github.com/user-attachments/assets/0435d590-98e7-4e0d-9b13-9513485529fd" />
 
-# Run and edit the script: 
+# Run and edit the script 
 Congratulations, you are now ready to run and edit the script. All the instructions on running and adapting the script are given inside *"Slope Curves.ipynb"*, and thus, from here you will continue with the instructions seen in JupyterLab.  
 - Good luck :partying_face:
 
 
-# Updates to the notebook: 
+# Updates to the notebook 
 When problems are fixed in the Jupyter Notebook the script will be updated on GitHub. Thus, for newer versions re-download the Notebook. 
 * **First version**: 2025 November 27th. 
 
