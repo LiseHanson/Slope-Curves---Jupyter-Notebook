@@ -8,7 +8,7 @@ In the text below, it is described how to download and install everything needed
 
 To understand the need for slope curve analysis and how to understand such plots, see these articles: 
 * [The Impact of Sample Insulation on Estimating the Heating Power of Magnetic Nanoparticles by AC Calorimetry](http://dx.doi.org/10.1109/LMAG.2023.3279778)
-* [Link to article pending](TODO!!!)
+* [Unravelling Challenges in Heating Power Measurements for Magnetic Hyperthermia -- the RADIOMAG Round Robin Study Revisited](https://doi.org/10.48550/arXiv.2606.06045)
 
 # Download and install Python and JupyterLab
 To run the script, you need to install both Python (the programming language used in the script) and JupyterLab (the graphical user interface where you will run and edit the script). 
