@@ -76,3 +76,5 @@ Congratulations, you are now ready to run and edit the script. All the instructi
 When problems are fixed in the Jupyter Notebook the script will be updated on GitHub. Thus, for newer versions re-download the Notebook. 
 * **First version**: 2025 November 27th. 
 
+# Contact information
+If you are experincing problems with the code or have suggestions for improvement please contact me on e-mail: lisegr@dtu.dk
