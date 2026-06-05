@@ -15,7 +15,7 @@ To run the script, you need to install both Python (the programming language use
 
 The following videos can be used to help you install both Python and JupyterLab:  
 * **Windows**:  [https://www.youtube.com/watch?v=LQ47rIO5bTw](https://www.youtube.com/watch?v=LQ47rIO5bTw).  
-* **MacOS**: [https://www.youtube.com/watch?v=z7zOkRubIrU](https://www.youtube.com/watch?v=z7zOkRubIrU). This video is for installing Jupyter notebook, which would also work fine. However, I would recommend JupyterLab. Thus, whenever you are asked to type something with `... notebook` in your terminal, instead type `... jupyterlab` ( e.g., when asked to type `pip3 install notebook`, instead type `pip install jupyterlab`). 
+* **MacOS**: [https://www.youtube.com/watch?v=z7zOkRubIrU](https://www.youtube.com/watch?v=z7zOkRubIrU). This video is for installing Jupyter notebook, which would also work fine. However, I would recommend JupyterLab. Thus, in the rest of this manual whenever you are asked to type something with `... notebook` in your terminal, instead type `... jupyterlab` ( e.g., when asked to type `pip3 install notebook`, instead type `pip install jupyterlab`). 
 
 Additionally, the steps are described below.  
 1. Download the Python installer:  
